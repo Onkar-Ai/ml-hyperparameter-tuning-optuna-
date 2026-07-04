@@ -79,7 +79,7 @@ pip install numpy
 Clone the repository:
 
 ```bash
-https://github.com/Onkar-Ai/ml-hyperparameter-tuning-optuna-/edit/main/README.md
+https://github.com/Onkar-Ai/ml-hyperparameter-tuning-optuna-
 ```
 
 Move into the project directory:
