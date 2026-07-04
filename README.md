@@ -79,19 +79,13 @@ pip install numpy
 Clone the repository:
 
 ```bash
-[git clone https://github.com/yourusername/Optuna-Hyperparameter-Tuning.git](https://colab.research.google.com/drive/1Re42xRjbD9VgUxBJi5lNpVLW_bm7Ofml?usp=sharing)
+https://github.com/Onkar-Ai/ml-hyperparameter-tuning-optuna-/edit/main/README.md
 ```
 
 Move into the project directory:
 
 ```bash
 cd Optuna-Hyperparameter-Tuning
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
 ```
 
 Open:
@@ -110,9 +104,6 @@ Optuna-Hyperparameter-Tuning/
 └── requirements.txt
 ```
 
-## Author
-
-Abhi Alekar
 
 ---
 
